@@ -81,3 +81,7 @@ Use this decoded password to log in to the ArgoCD UI.
 sudo chmod 644 /etc/rancher/k3s/k3s.yaml
 ```
 
+## Example project 
+
+https://github.com/argoproj/argocd-example-apps
+
