@@ -75,3 +75,9 @@ Look for the password field (it's base64 encoded), then decode it:
 echo <encoded_password> | base64 --decode
 ```
 Use this decoded password to log in to the ArgoCD UI.
+
+# Use kubectl without sudo
+```bash
+sudo chmod 644 /etc/rancher/k3s/k3s.yaml
+```
+
