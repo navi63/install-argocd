@@ -84,4 +84,5 @@ sudo chmod 644 /etc/rancher/k3s/k3s.yaml
 ## Example project 
 
 https://github.com/argoproj/argocd-example-apps
+https://github.com/argoproj/argo-cd/tree/master/applicationset/examples
 
